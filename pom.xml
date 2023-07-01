@@ -5,7 +5,7 @@
     <artifactId>Artifact_Plugin_Nexus</artifactId>
     <version>1.0</version>
     <packaging>jar</packaging>
-    <name>MavenRelease1</name>
+    <name>Artifact_Plugin_Nexus</name>
 
     <properties>
         <java.version>11</java.version>
